@@ -2,6 +2,10 @@
   "name": "passport-verticalresponse",
   "version": "0.0.7",
   "description": "Vertical Response authentication strategy for Passport.",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/Fyrebox/passport-verticalresponse.git"
+  },
   "keywords": [
     "verticalresponse",
     "passport",
